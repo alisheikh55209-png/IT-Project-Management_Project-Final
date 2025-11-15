@@ -9,10 +9,9 @@ A modern, responsive portfolio website built with pure HTML, CSS, and JavaScript
 - **Smooth Scrolling** - Enhanced navigation experience
 - **Interactive Elements** - Hover effects, animations, and transitions
 - **Contact Form** - Functional contact form with validation
-- **Team Section** - Showcase for 3 team members (Hassan, Member 2, Member 3)
+- **Team Section** - Showcase for 3 team members (Muhammad Ali Sheikh_70151489, Muneeb Ur Rehman_70149177, Faraz Butt_70154218)
 - **Projects Gallery** - Display your team's work with beautiful project cards
 - **Skills Showcase** - Animated skill bars and technology cards
-
 ## Project Structure
 
 ```
