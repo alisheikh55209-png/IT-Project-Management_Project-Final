@@ -31,7 +31,7 @@ A modern, responsive portfolio website built with pure HTML, CSS, and JavaScript
 
 ## Sections
 
-1. **Home** - Landing page with hero section
+1. **Home** - Landing page with hero section featuring team introduction and image
 2. **About** - Team introduction and statistics
 3. **Skills** - Technology stack and expertise
 4. **Projects** - Portfolio of completed projects
