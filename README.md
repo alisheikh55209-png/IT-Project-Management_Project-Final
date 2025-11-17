@@ -83,11 +83,38 @@ See **[CONTRIBUTING.md](./CONTRIBUTING.md)** for:
 | Phase | Status | Deliverable |
 |-------|--------|-------------|
 | Phase 1: Setup & Planning | ✅ Complete | Repository with README, License, team defined |
-| Phase 2: Cloning & Branching | ⏳ In Progress | All members create & merge branches |
-| Phase 3: Project Development | ⏹️ Pending | Functional project with features |
+| Phase 2: Cloning & Branching | ✅ Complete | All members created branches and pushed updates |
+| Phase 3: Project Development | ⏳ In Progress | Feature branches with functionality (Faraz projects complete) |
 | Phase 4: Conflict Resolution | ⏹️ Pending | Merge conflict resolved & documented |
 | Phase 5: Documentation & Testing | ⏹️ Pending | PROJECT_REPORT.md & final code |
 | Phase 6: Presentation & Submission | ⏹️ Pending | GitHub link + presentation slides |
+
+## 📦 Team Contributions Summary
+
+### Muhammad Ali Sheikh (70151489) — Team Lead: Hero & Dashboard
+- Dashboard and Hero section design
+- Team coordination and assignment management
+- README and documentation oversight
+- Status: ✅ Complete
+
+### Muneeb Ur Rehman (70149177) — Developer 1: Skills Section
+- Skills section with animated skill bars
+- UI/UX refinements and styling
+- Status: ✅ Complete
+
+### Faraz Butt (70154218) — Developer 2: Projects Gallery
+- **Projects Gallery:** Added 3 DevOps/Infrastructure project cards to showcase:
+  - Scalable CI/CD Pipeline (Docker, GitHub Actions, Kubernetes)
+  - Cloud Infrastructure Automation (Terraform, AWS, IaC)
+  - Monitoring & Observability Stack (Prometheus, Grafana, Loki)
+- **Custom Assets:** Created high-fidelity SVG thumbnails for projects
+- **Activity/Session Section:** Implemented team transparency and conversation logs
+- **CSS Styling:** Responsive design with dark mode support
+- **Branch:** `feature-faraz-projects`
+- **Status:** ✅ Complete — Ready for merge
+- **Last Updated:** November 17, 2025
+
+---
 
 ## 🎓 Learning Outcomes
 By completing this project, team members will:
@@ -119,5 +146,5 @@ This project is licensed under the MIT License - see [LICENSE](./LICENSE) file f
 Contact the team lead: Muhammad Ali Sheikh (70151489)
 
 ---
-**Last Updated:** November 15, 2025  
-**Status:** 🟡 Phase 2 - Cloning & Branching
+**Last Updated:** November 17, 2025  
+**Status:** 🟡 Phase 3 - Project Development (Faraz Projects Complete)
