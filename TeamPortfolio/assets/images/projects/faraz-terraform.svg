@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="#f8fafc"/>
+  <rect x="60" y="80" width="1080" height="540" rx="20" fill="url(#g2)" opacity="0.12"/>
+  <g font-family="Poppins, Arial, sans-serif">
+    <text x="120" y="240" fill="#0f172a" font-size="56" font-weight="700">Cloud Infrastructure Automation</text>
+    <text x="120" y="320" fill="#334155" font-size="22">Terraform • AWS • Infrastructure as Code</text>
+    <text x="120" y="380" fill="#475569" font-size="18" opacity="0.9">Provisioned secure, repeatable cloud environments with cost and compliance controls.</text>
+  </g>
+</svg>

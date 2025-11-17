@@ -755,6 +755,55 @@ section {
 }
 
 /* ============================================
+   Activity / Session Section
+   ============================================ */
+.activity-section {
+    background: var(--white);
+}
+
+.activity-feed {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.activity-item {
+    padding: 1rem 1.25rem;
+    border-radius: 12px;
+    background: var(--light-bg);
+    box-shadow: var(--shadow);
+}
+
+.activity-meta {
+    font-size: 0.9rem;
+    color: var(--text-gray);
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.activity-content {
+    color: var(--text-dark);
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.activity-content .message {
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 8px;
+    background: rgba(37, 99, 235, 0.03);
+    border: 1px solid rgba(37, 99, 235, 0.05);
+}
+
+@media (max-width: 768px) {
+    .activity-feed {
+        padding: 0 1rem;
+    }
+}
+
+/* ============================================
    Contact Section
    ============================================ */
 .contact-section {
