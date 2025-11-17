@@ -5,7 +5,7 @@ This is a collaborative team project for IT Project Management course demonstrat
 
 **Team Members:**
 - Muhammad Ali Sheikh (70151489) - **Team Lead**
-- Muneeb - **Developer 2** - Performance Optimization & Documentation Updates
+- Muneeb Ur Rehman (70149177) - **Developer 2**
 - Faraz Butt (70154218) - **Developer 3**
 
 ## 🎯 Project Theme
