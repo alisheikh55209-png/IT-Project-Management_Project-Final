@@ -7,12 +7,12 @@ This document lists the Phase 3 feature assignments and exact steps each team me
   - Branch: `feature-ali-dashboard`
   - Tasks: add hero HTML/CSS, navigation, responsive layout
 
-- **Muneeb** — Developer 2: Skills section
+- **Muneeb Ur Rehman (70149177)** — Developer 2: Skills section
   - Branch: `feature-muneeb-skills`
   - Tasks: enhance skills section with animations, add new skill cards, improve UI interactions
   - Status: ✅ Complete (PR merged)
 
-- **Faraz (Faraz Butt)** — Developer 3: Projects gallery
+- **Faraz Butt (70154218)** — Developer 3: Projects gallery
   - Branch: `feature-faraz-projects`
   - Tasks: add project cards, images, project details modal/links
   - Status: ✅ Complete (PR merged)
