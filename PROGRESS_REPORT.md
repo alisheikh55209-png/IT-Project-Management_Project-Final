@@ -1,22 +1,22 @@
 # Project Progress Report - IT Project Management Team Portfolio
 
 ## Team Lead Assessment
-**Date:** November 15, 2025  
-**Team Lead:** Muhammad Ali Sheikh (70151489)  
-**Status:** Phase 2 In Progress  
+**Date:** November 17, 2025
+**Team Lead:** Muhammad Ali Sheikh (70151489)
+**Status:** Phase 3 Complete - Faraz's Work Merged
 
 ## Current Progress Summary
 - **Phase 1 (Setup & Planning)**: ✅ **Fully Complete** - Repository created, team defined, README, CONTRIBUTING.md, LICENSE, and basic structure in place.
 - **Phase 2 (Cloning & Branching)**: ⏳ **Partially Started** - Guidelines are documented, but team members haven't completed the cloning/branching process yet (no merged branches visible in the repo).
-- **Phase 3 (Project Development)**: ✅ **Fully Complete** - The portfolio website (TeamPortfolio/index.html) is fully built with all sections (Home, About, Skills, Projects, Team, Contact). Ali's hero/dashboard enhancement has been successfully implemented and merged into main branch. Feature assignments are defined, but individual contributions from other team members need to be integrated.
+- **Phase 3 (Project Development)**: ✅ **Fully Complete** - The portfolio website (TeamPortfolio/index.html) is fully built with all sections (Home, About, Skills, Projects, Team, Contact). Ali's hero/dashboard enhancement and Faraz's projects section have been successfully implemented and merged into main branch. Muneeb's contributions removed as per team lead request.
 - **Phase 4 (Collaboration & Conflict Resolution)**: ⏹️ **Not Started** - No merge conflicts simulated or documented.
 - **Phase 5 (Documentation & Testing)**: ⏹️ **Not Started** - PROJECT_REPORT.md is a template; needs filling with details, screenshots, and testing.
 - **Phase 6 (Presentation & Submission)**: ⏹️ **Not Started** - No presentation slides or final repo link prepared.
 
-**Overall**: About 50-60% complete. The foundation is solid, hero section enhancement completed. The collaborative phases (team contributions, conflicts, docs) are pending. The website itself is functional, but phases require team member involvement to meet the learning objectives.
+**Overall**: About 60-70% complete. The foundation is solid, hero and projects sections completed. The collaborative phases (team contributions, conflicts, docs) are pending. The website itself is functional, but phases require team member involvement to meet the learning objectives.
 
 ## Remaining Work Overview
-- **Key Gaps**: Team members (Muneeb and Faraz) need to actively participate in branching, committing, and PRs. The site is built, but phases require simulating real team work (even if the final product is ready).
+- **Key Gaps**: Team members (Faraz) need to actively participate in branching, committing, and PRs. The site is built, but phases require simulating real team work (even if the final product is ready). Muneeb's work removed.
 - **Time Estimate**: 1-2 weeks if team works consistently (2-3 hours per member per phase).
 - **Risks**: If team members don't contribute, you'll lose marks in collaboration and individual contribution categories (total 30 marks).
 
@@ -26,8 +26,8 @@ Follow these sequential steps to guide your team through the remaining phases. S
 ### Step 1: Complete Phase 2 (Cloning & Branching) - Priority: High
    - **Why?** This builds Git/GitHub skills and gets everyone contributing.
    - **Your Actions**:
-     1. Remind team members (Muneeb and Faraz) to follow the quick start in TEAM_ASSIGNMENTS.md.
-     2. Have them clone the repo, create their branches (e.g., `feature-muneeb`, `feature-faraz`), add a sample file (like a personal note in their .md file), commit, push, and create PRs.
+     1. Remind team members (Faraz) to follow the quick start in TEAM_ASSIGNMENTS.md.
+     2. Have them clone the repo, create their branches (e.g., `feature-faraz`), add a sample file (like a personal note in their .md file), commit, push, and create PRs.
      3. Review and merge their PRs on GitHub (use "Squash and merge" as recommended).
      4. Update README.md status to mark Phase 2 complete.
    - **Timeline**: 1-2 days. Follow up if they delay.
@@ -35,8 +35,8 @@ Follow these sequential steps to guide your team through the remaining phases. S
 ### Step 2: Oversee Phase 3 (Project Development) - Priority: High
    - **Why?** This simulates feature development; even though the site is built, have members "contribute" by modifying sections or adding content.
    - **Your Actions**:
-     1. Assign tasks as per TEAM_ASSIGNMENTS.md (Ali: Hero/Dashboard, Muneeb: Skills, Faraz: Projects).
-     2. Have members work on their branches: Edit TeamPortfolio/index.html or CSS/JS files to add/improve their sections (e.g., Muneeb adds animated skill bars, Faraz updates project cards).
+     1. Assign tasks as per TEAM_ASSIGNMENTS.md (Ali: Hero/Dashboard, Faraz: Projects). Muneeb's assignment removed.
+     2. Have members work on their branches: Edit TeamPortfolio/index.html or CSS/JS files to add/improve their sections (e.g., Faraz updates project cards).
      3. They commit, push, and submit PRs.
      4. Review PRs, provide feedback, and merge.
      5. Update PROJECT_REPORT.md with individual contributions and screenshots.
