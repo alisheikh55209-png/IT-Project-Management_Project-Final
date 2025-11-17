@@ -69,6 +69,10 @@ _Add screenshots here (path or inline images)._
 - **Faraz:** "Ali, my projects gallery is ready. Added three DevOps projects with custom SVGs and the activity section for transparency."
 - **Ali:** "Excellent Faraz! The projects look professional and the activity section will be great for the instructor to see our progress."
 
+**Muneeb's Work Update:**
+- **Muneeb:** "Hi team, I've been working on enhancing the portfolio's loading performance. The animations now load much faster and more consistently. Also updated all documentation files to reflect our current team structure and contributions."
+- **Ali:** "Thanks Muneeb! The faster loading times will improve user experience significantly."
+
 ## Lessons Learned
 - Key takeaways
 

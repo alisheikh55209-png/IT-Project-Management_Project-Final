@@ -2,7 +2,7 @@
 
 ## Team Members
 - **Team Lead:** Muhammad Ali Sheikh (70151489)
-- **Developer 2:** Muneeb
+- **Developer 2:** Muneeb - Performance Optimization & Documentation Updates
 - **Developer 3:** Faraz Butt (70154218)
 
 ## Getting Started

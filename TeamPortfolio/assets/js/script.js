@@ -630,7 +630,7 @@ function animateLoadingScreen() {
 
     let progress = 0;
     const interval = setInterval(() => {
-        progress += Math.random() * 15;
+        progress += Math.random() * 25 + 10; // Faster progress increment
         if (progress >= 100) {
             progress = 100;
             clearInterval(interval);
@@ -640,13 +640,13 @@ function animateLoadingScreen() {
                 loadingScreen.style.visibility = 'hidden';
                 setTimeout(() => {
                     loadingScreen.remove();
-                }, 500);
-            }, 500);
+                }, 300); // Faster fade out
+            }, 300); // Faster delay before fade
         }
 
         progressFill.style.width = progress + '%';
         progressText.textContent = Math.floor(progress) + '%';
-    }, 100);
+    }, 50); // Faster interval
 }
 
 // Initialize loading screen

@@ -5,8 +5,8 @@ This is a collaborative team project for IT Project Management course demonstrat
 
 **Team Members:**
 - Muhammad Ali Sheikh (70151489) - **Team Lead**
-- Muneeb - Developer 2
-- Faraz Butt (70154218) - Developer 3
+- Muneeb - **Developer 2** - Performance Optimization & Documentation Updates
+- Faraz Butt (70154218) - **Developer 3**
 
 ## 🎯 Project Theme
 **Portfolio Website** - A modern, responsive portfolio website built with HTML, CSS, and JavaScript to showcase the team's work and skills.
