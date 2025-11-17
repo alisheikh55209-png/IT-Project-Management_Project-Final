@@ -25,3 +25,26 @@ Creative designer with a keen eye for detail. Expert in creating beautiful inter
 - LinkedIn: https://linkedin.com/in/yourprofile
 
 **Last Updated:** 2025-11-17 — verified and committed by automation for PR
+
+---
+
+## Development Conversation & Discussion
+
+**For complete development conversation, technical decisions, and implementation details, see:**
+- **[CONVERSATION_LOG.md](./CONVERSATION_LOG.md)** — Full development log visible to team lead and instructor
+
+### Key Decisions Made
+1. Implemented WCAG-compliant accessibility (ARIA attributes, semantic HTML)
+2. Added native image lazy-loading with IntersectionObserver fallback
+3. Created local `.githooks` for automatic commit numbering
+4. Built reusable modal system for project previews and team profiles
+5. Implemented configurable contact form endpoint with mailto fallback
+
+### Current PR Status
+- **Branch:** `muneeb/update-profile`
+- **Status:** ✅ Awaiting team lead review and merge
+- **Reviewer:** Muhammad Ali Sheikh (@alisheikh55209-png)
+
+---
+
+**For more information about this project and all development work, refer to [CONVERSATION_LOG.md](./CONVERSATION_LOG.md)**

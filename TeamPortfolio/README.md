@@ -38,6 +38,12 @@ A modern, responsive portfolio website built with pure HTML, CSS, and JavaScript
 5. **Team** - Individual team member profiles
 6. **Contact** - Contact form and information
 
+## Documentation & Development Log
+
+- **[CONVERSATION_LOG.md](../CONVERSATION_LOG.md)** — Complete development conversation and work documentation visible to team lead (Ali Sheikh) and course instructor
+- **[muneeb-projects.md](../muneeb-projects.md)** — Muneeb Ur Rehman's profile and completed responsibilities
+- **[README-HOOKS.md](../TeamPortfolio/README-HOOKS.md)** — Git hooks setup and commit numbering instructions
+
 ## How to Use
 
 1. Open `index.html` in your web browser

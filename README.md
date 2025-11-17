@@ -78,6 +78,18 @@ See **[CONTRIBUTING.md](./CONTRIBUTING.md)** for:
 - Merge conflict resolution
 - Code review checklist
 
+### Development Conversation & Logs
+Complete development discussion and work documentation:
+- **[CONVERSATION_LOG.md](./CONVERSATION_LOG.md)** — Full development conversation, technical decisions, and implementation details (visible to team lead and course instructor)
+- **[muneeb-projects.md](./muneeb-projects.md)** — Muneeb Ur Rehman's profile, responsibilities, and completed work
+- **[faraz-projects.md](./faraz-projects.md)** — Faraz Butt's profile and contributions
+- **[ali-dashboard.md](./ali-dashboard.md)** — Ali Sheikh's dashboard and team lead activities
+
+### Team Assignments & Progress
+- **[TEAM_ASSIGNMENTS.md](./TEAM_ASSIGNMENTS.md)** — Phase-by-phase task assignments for each team member
+- **[PROGRESS_REPORT.md](./PROGRESS_REPORT.md)** — Overall project progress and milestones
+- **[PROJECT_REPORT.md](./PROJECT_REPORT.md)** — Comprehensive project report and outcomes
+
 ### Project Development Phases
 
 | Phase | Status | Deliverable |
