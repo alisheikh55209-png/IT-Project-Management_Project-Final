@@ -365,6 +365,48 @@ if ('IntersectionObserver' in window) {
 }
 
 // ============================================
+// Dark Mode Toggle
+// ============================================
+const darkModeToggle = document.getElementById('darkModeToggle');
+const body = document.body;
+
+// Check for saved theme preference or default to light mode
+const currentTheme = localStorage.getItem('theme') || 'light';
+body.setAttribute('data-theme', currentTheme);
+
+// Function to toggle theme
+function toggleTheme() {
+    const currentTheme = body.getAttribute('data-theme');
+    const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+
+    body.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+
+    // Update toggle button icon
+    updateToggleIcon(newTheme);
+}
+
+// Function to update toggle icon
+function updateToggleIcon(theme) {
+    const sunIcon = darkModeToggle.querySelector('.sun-icon');
+    const moonIcon = darkModeToggle.querySelector('.moon-icon');
+
+    if (theme === 'dark') {
+        sunIcon.style.display = 'none';
+        moonIcon.style.display = 'block';
+    } else {
+        sunIcon.style.display = 'block';
+        moonIcon.style.display = 'none';
+    }
+}
+
+// Initialize toggle icon
+updateToggleIcon(currentTheme);
+
+// Add event listener to toggle button
+darkModeToggle.addEventListener('click', toggleTheme);
+
+// ============================================
 // Console Welcome Message
 // ============================================
 console.log('%c👋 Welcome to our Portfolio!', 'font-size: 20px; font-weight: bold; color: #B63E96;');

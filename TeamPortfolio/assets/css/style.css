@@ -20,6 +20,24 @@
     --border-radius: 12px;
 }
 
+/* Dark Mode Variables */
+[data-theme="dark"] {
+    --primary-color: #3b82f6;
+    --primary-dark: #2563eb;
+    --primary-light: #60a5fa;
+    --accent-color: #22d3ee;
+    --gradient-start: #3b82f6;
+    --gradient-end: #22d3ee;
+    --dark-bg: #0f172a;
+    --light-bg: #1e293b;
+    --text-dark: #f1f5f9;
+    --text-light: #0f172a;
+    --text-gray: #94a3b8;
+    --white: #1e293b;
+    --shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    --shadow-lg: 0 15px 15px 1px rgba(0, 0, 0, 0.5);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -137,6 +155,46 @@ body {
     background: var(--text-dark);
     transition: var(--transition);
     border-radius: 3px;
+}
+
+/* Dark Mode Toggle Button */
+.dark-mode-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 50%;
+    transition: var(--transition);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1rem;
+}
+
+.dark-mode-toggle:hover {
+    background: rgba(37, 99, 235, 0.1);
+}
+
+.dark-mode-toggle svg {
+    width: 24px;
+    height: 24px;
+    transition: var(--transition);
+}
+
+[data-theme="dark"] .sun-icon {
+    display: none;
+}
+
+[data-theme="dark"] .moon-icon {
+    display: block;
+}
+
+.sun-icon {
+    display: block;
+}
+
+.moon-icon {
+    display: none;
 }
 
 /* ============================================
