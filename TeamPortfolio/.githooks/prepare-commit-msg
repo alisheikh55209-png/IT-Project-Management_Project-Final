@@ -1,0 +1,30 @@
+#!/bin/sh
+# prepare-commit-msg hook: prefixes commit message with "Commit N: "
+# Reads and increments .githooks/commit_count.txt
+COUNT_FILE=".githooks/commit_count.txt"
+
+if [ ! -f "$COUNT_FILE" ]; then
+  echo "0" > "$COUNT_FILE"
+fi
+
+# read current count
+count=$(cat "$COUNT_FILE" 2>/dev/null || echo 0)
+# increment
+newcount=$((count + 1))
+# write back
+echo "$newcount" > "$COUNT_FILE"
+
+# Only prefix for regular commits (skip merge and squash messages)
+case "$2" in
+  "merge") exit 0 ;;
+  "squash") exit 0 ;;
+esac
+
+# prepend prefix to commit message file ($1)
+if [ -f "$1" ]; then
+  # avoid double prefixing
+  if ! grep -q "^Commit [0-9]\+:" "$1"; then
+    sed -i.bak -e "1s/^/Commit $newcount: /" "$1" || true
+  fi
+fi
+exit 0
