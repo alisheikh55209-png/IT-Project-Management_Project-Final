@@ -143,7 +143,10 @@ This project demonstrates collaborative software development using Git and GitHu
 - Nov 17, 2025 14:45 — Faraz Butt: Replaced project thumbnails with distinct existing images (devdreaming.jpg, fashion-studio-website.jpg, nft-collection-website-cover-image.jpg).
 - Nov 17, 2025 14:50 — Faraz Butt: Created high-fidelity SVG placeholder for Scalable CI/CD Pipeline with pipeline visualization (Build → Test → Package → Deploy).
 - Nov 17, 2025 15:00 — Faraz Butt: Finalized project thumbnails and committed all changes to branch `feature-faraz-projects`.
+- Nov 18, 2025 12:00 — Ali: Successfully deployed TeamPortfolio project with Next.js setup to GitHub branch `blackboxai/deploy-teamportfolio`.
+- Nov 18, 2025 12:30 — Ali: Updated CONTRIBUTING.md with deployment status and corrected project phases.
 - **Branch:** `feature-faraz-projects` | **Status:** Ready for Pull Request review.
+- **Branch:** `blackboxai/deploy-teamportfolio` | **Status:** Deployed and ready for review.
 
 ## Team Conversation Logs
 **Pull Request Acceptance - Muneeb's Skills Section:**
