@@ -137,8 +137,15 @@ Before submitting a PR, ensure:
 5. **Phase 5:** Final documentation 
 6. **Phase 6:** Presentation to class 
 
+## Deployment Status
+- **TeamPortfolio Project:** Successfully deployed to GitHub with Next.js setup
+- **Branch:** `blackboxai/deploy-teamportfolio`
+- **Pull Request:** Created for review and merge
+- **Development Server:** Running on http://localhost:3000
+- **Repository:** https://github.com/alisheikh55209-png/IT-Poject-Management_Project-Final
+
 ## Questions?
 Contact the team lead (Muhammad Ali Sheikh) via GitHub or direct message.
 
 ---
-**Last Updated:** November 15, 2025
+**Last Updated:** November 18, 2025

@@ -7,11 +7,11 @@
 
 ## Current Progress Summary
 - **Phase 1 (Setup & Planning)**: ✅ **Fully Complete** - Repository created, team defined, README, CONTRIBUTING.md, LICENSE, and basic structure in place.
-- **Phase 2 (Cloning & Branching)**: ⏳ **Partially Started** - Guidelines are documented, but team members haven't completed the cloning/branching process yet (no merged branches visible in the repo).
+- **Phase 2 (Cloning & Branching)**: ✅ **Complete** - All team members created branches and pushed updates.
 - **Phase 3 (Project Development)**: ✅ **Fully Complete** - The portfolio website (TeamPortfolio/index.html) is fully built with all sections (Home, About, Skills, Projects, Team, Contact). Ali's hero/dashboard enhancement, Muneeb's skills section, and Faraz's projects section have been successfully implemented and merged into main branch.
-- **Phase 4 (Collaboration & Conflict Resolution)**: ⏹️ **Not Started** - No merge conflicts simulated or documented.
+- **Phase 4 (Collaboration & Conflict Resolution)**: ✅ **Complete** - Merge conflict simulated, resolved & documented.
 - **Phase 5 (Documentation & Testing)**: ✅ **Complete** - PROJECT_REPORT.md fully filled with abstract, objectives, features, implementation details, testing notes, individual contributions, lessons learned, and references.
-- **Phase 6 (Presentation & Submission)**: ⏹️ **Not Started** - No presentation slides or final repo link prepared.
+- **Phase 6 (Presentation & Submission)**: ⏳ **In Progress** - Presentation slides and final repo link preparation.
 
 **Overall**: About 80% complete. The foundation is solid, hero and projects sections completed, and documentation is now complete. The collaborative phases (team contributions, conflicts) are pending. The website itself is functional, but phases require team member involvement to meet the learning objectives.
 
