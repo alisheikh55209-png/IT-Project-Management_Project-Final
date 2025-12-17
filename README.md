@@ -68,6 +68,17 @@ git push origin feature-<yourname>
 - Request team lead review
 - Wait for approval and merge
 
+## 🌐 Live Deployment
+
+### ✅ Portfolio Website Live
+**Website:** https://alisheikh55209-png.github.io/IT-Poject-Management_Project-Final/
+
+The portfolio is automatically deployed to GitHub Pages on every push to `main`.
+
+### 📋 Deployment Documentation
+For detailed deployment instructions, server setup, and troubleshooting:
+- See **[DEPLOYMENT.md](./DEPLOYMENT.md)**
+
 ## 📖 Documentation
 
 ### For Team Members
@@ -77,6 +88,10 @@ See **[CONTRIBUTING.md](./CONTRIBUTING.md)** for:
 - Pull request workflow
 - Merge conflict resolution
 - Code review checklist
+
+### Project Reports
+- **[PROJECT_REPORT.md](./PROJECT_REPORT.md)** — Comprehensive project documentation with testing results
+- **[DEPLOYMENT.md](./DEPLOYMENT.md)** — Deployment guide and production checklist
 
 ### Project Development Phases
 
