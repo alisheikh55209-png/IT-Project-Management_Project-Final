@@ -51,23 +51,6 @@ This project demonstrates collaborative software development using Git and GitHu
 1. Open `index.html` in a browser
 2. (Optional) Serve with a simple static server
 
-## Screenshots
-
-### Desktop View - Full Portfolio
-![Portfolio Desktop View](TeamPortfolio/screenshots/desktop-full.png)
-
-### Mobile View - Responsive Design
-![Portfolio Mobile View](TeamPortfolio/screenshots/mobile-responsive.png)
-
-### Projects Gallery - DevOps Projects
-![Projects Gallery](TeamPortfolio/screenshots/projects-gallery.png)
-
-### Dark Mode Toggle
-![Dark Mode](TeamPortfolio/screenshots/dark-mode.png)
-
-### Skills Section - Interactive Elements
-![Skills Section](TeamPortfolio/screenshots/skills-section.png)
-
 ## Testing & Validation
 
 ### **Comprehensive Testing Results (Phase 5 - November 17, 2025)**
